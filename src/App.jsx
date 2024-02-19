@@ -90,7 +90,7 @@ function App() {
     <>
       <div className='w-100 bg-dark d-flex justify-content-center align-items-center' style={{height:"100vh"}}>
         <div className='bg-light w-50 shadow rounded p-5'>
-          <h1 >Simple Intrest Calculator</h1>
+          <h1 >Simple Interest Calculator</h1>
           <div className='d-flex justify-content-center p-5 border shadow mt-3'  style={{backgroundColor:"yellow"}}>
           ₹ {result}
           </div>
